@@ -6,4 +6,3 @@ function Wrapper(props) {
 }
 
 export default Wrapper;
-//
